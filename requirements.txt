@@ -1,0 +1,6 @@
+discord.js 
+@discordjs/rest
+node:fs
+node:path
+noblox.js
+dotenv
